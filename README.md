@@ -4,7 +4,7 @@ Each cell contains number from -1 to 9, these numbers represent amount of blocks
 To step from one block to another, diff between them shouldn't be more than 1.
 The number of blocks a player can fit in their backpack is 9
 ______________________________________________________________________________
-Carol - Player
+Carol - Player,
 Commands + Rules:
 <ul>
 <li><code>'r'</code> Carol turns right from her own point of view.</li>
