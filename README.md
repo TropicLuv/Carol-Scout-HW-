@@ -13,4 +13,3 @@ Commands + Rules:
 <li><code>'p'</code>  Carol places a block of ice on the field in the line of sight. To do this, she must carry at least one block of ice and the field in front of her must not have reached the maximum height (<code>9</code>). If Carol is in the water, she cannot place blocks of ice either.</li>
 <li><code>'n'</code> Carol takes a block of ice from the field in the direction of view. To do this, she must be able to pick up at least one block of ice and the space in front of her must not be water (<code>-1</code>). If Carol is in the water, she cannot take any blocks of ice either.</li>
 </ul>
-______________________________________________________________________________
